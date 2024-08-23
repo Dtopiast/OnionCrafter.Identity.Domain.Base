@@ -1,6 +1,6 @@
 # OnionCrafter.Identity.Domain.Base 
 
-![Versión de la librería](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-brightgreen) [![NuGet](https://img.shields.io/nuget/v/OnionCrafter.Util.IdentityManagement.svg)](https://www.nuget.org/packages/OnionCrafter.Util.IdentityManagement/)
+![Versión de la librería](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-brightgreen) [![NuGet](https://img.shields.io/nuget/v/OnionCrafter.Identity.Domain.Base.svg)](https://www.nuget.org/packages/OnionCrafter.Identity.Domain.Base/)
 
 ![](https://raw.githubusercontent.com/DtopiastOnionCrafter.Identity.Domain.Base/main/img/justLogo.png)
 
