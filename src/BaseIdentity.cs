@@ -37,7 +37,7 @@ namespace Aura.Domain.Entities.Identity.Base
         public DateTime? ModifiedAt { get; set; }
         public string ModifiedBy { get; set; }
 
-        public List<BaseUserRole<TkeyUserRole, Tkey, TkeyCategoryRole, TkeyRefreshToken, Tkey>> UserRoles { get; set; }
+        public List<BaseUserRole<TkeyUserRole, TkeyCategoryRole, TkeyRefreshToken, Tkey>> UserRoles { get; set; }
 
         public BaseIdentity()
         {
