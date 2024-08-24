@@ -4,7 +4,7 @@
 		<Description>
 			This library provides a comprehensive set of classes and tools for managing user identity and roles within .NET applications. It simplifies the process of implementing authentication and authorization, allowing developers to easily define user roles, permissions, and access control to enhance security and maintainability in their projects
 		</Description>
-		<VersionPrefix>1.0.0</VersionPrefix>
+		<VersionPrefix>1.0.1</VersionPrefix>
 		<VersionSuffix>beta</VersionSuffix>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>
 		<IncludeSymbols>True</IncludeSymbols>
